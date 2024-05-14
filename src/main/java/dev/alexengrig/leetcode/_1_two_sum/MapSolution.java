@@ -5,7 +5,7 @@ import java.util.HashMap;
 class MapSolution implements Task {
     @Override
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<>(nums.length);
+        HashMap<Integer, Integer> map = new HashMap<>((int) Math.ceil(nums.length / 0.75));
         map.put(target - nums[0], 0);
         int l, j, i, num;
         for (j = 1, l = nums.length; j < l; j++) {
