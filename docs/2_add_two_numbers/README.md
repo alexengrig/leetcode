@@ -1,13 +1,13 @@
 # [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 
-## [Iterative](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2_add_two_numbers/IterativeSolution.java)
+## [Iterative code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2_add_two_numbers/IterativeSolution.java)
 
 ```
 Runtime: 1 ms, faster than 100.00% of Java online submissions for Add Two Numbers.
 Memory Usage: 44.5 MB, less than 37.03% of Java online submissions for Add Two Numbers.
 ```
 
-## [Recursive](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2_add_two_numbers/RecursiveSolution.java)
+## [Recursive code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2_add_two_numbers/RecursiveSolution.java)
 
 ```
 Runtime: 1 ms, faster than 100.00% of Java online submissions for Add Two Numbers.
