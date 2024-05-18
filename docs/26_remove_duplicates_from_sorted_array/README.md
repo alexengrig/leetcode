@@ -7,7 +7,7 @@ Runtime: 1 ms, faster than 74.08% of Java online submissions for Remove Duplicat
 Memory Usage: 44.7 MB, less than 33.75% of Java online submissions for Remove Duplicates from Sorted Array.
 ```
 
-## [Log code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_26_remove_duplicates_from_sorted_array/LogSolution.java)
+## [Binary search code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_26_remove_duplicates_from_sorted_array/BinarySolution.java)
 
 ```
 Runtime: 1 ms, faster than 74.17% of Java online submissions for Remove Duplicates from Sorted Array.
