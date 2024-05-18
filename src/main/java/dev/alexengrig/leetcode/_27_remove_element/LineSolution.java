@@ -1,6 +1,6 @@
 package dev.alexengrig.leetcode._27_remove_element;
 
-public class LineSolution implements Task {
+class LineSolution implements Task {
     @Override
     public int removeElement(int[] nums, int val) {
         int left = 0;
