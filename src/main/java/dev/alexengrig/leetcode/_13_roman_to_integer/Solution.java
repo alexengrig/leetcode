@@ -1,6 +1,6 @@
 package dev.alexengrig.leetcode._13_roman_to_integer;
 
-public class Solution implements Task {
+class Solution implements Task {
     @Override
     public int romanToInt(String s) {
         int sum = 0, value, next, nextValue;
