@@ -6,7 +6,7 @@
 
 ```
 Runtime: 1 ms, faster than 100.00% of Java online submissions for Add Two Numbers.
-Memory Usage: 44.5 MB, less than 37.03% of Java online submissions for Add Two Numbers.
+Memory Usage: 43.9 MB, less than 93.30% of Java online submissions for Add Two Numbers.
 ```
 
 ## [Recursive code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2_add_two_numbers/RecursiveSolution.java)
