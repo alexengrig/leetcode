@@ -14,3 +14,4 @@
 - [238. Product of Array Except Self](238_product_of_array_except_self/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
+- [2906. Construct Product Matrix](2906_construct_product_matrix/README.md)
