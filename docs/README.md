@@ -11,3 +11,4 @@
 - [35. Search Insert Position](35_search_insert_position/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
+- [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
