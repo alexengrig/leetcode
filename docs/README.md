@@ -9,6 +9,7 @@
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
+- [153. Find Minimum in Rotated Sorted Array](153_find_minimum_in_rotated_sorted_array/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
