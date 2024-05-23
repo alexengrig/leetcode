@@ -9,6 +9,7 @@
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
+- [88. Merge Sorted Array](88_merge_sorted_array/README.md)
 - [153. Find Minimum in Rotated Sorted Array](153_find_minimum_in_rotated_sorted_array/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [238. Product of Array Except Self](238_product_of_array_except_self/README.md)
