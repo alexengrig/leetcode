@@ -15,4 +15,5 @@
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [1346. Check If N and Its Double Exist](1346_check_if_n_and_its_double_exist/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
+- [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
 - [2906. Construct Product Matrix](2906_construct_product_matrix/README.md)
