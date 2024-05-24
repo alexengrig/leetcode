@@ -7,6 +7,7 @@
 - [13. Roman to Integer](13_roman_to_integer/README.md)
 - [15. 3Sum](15_3sum/README.md)
 - [16. 3Sum Closest](16_3sum_closest/README.md)
+- [18. 4Sum](18_4sum/README.md)
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
