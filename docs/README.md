@@ -17,6 +17,7 @@
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [238. Product of Array Except Self](238_product_of_array_except_self/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
+- [704. Binary Search](704_binary_search/README.md)
 - [1346. Check If N and Its Double Exist](1346_check_if_n_and_its_double_exist/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
