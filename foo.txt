@@ -1,0 +1,310 @@
+! приложение
++ библиотека
+- нет библиотеки
+
+
+
+! audit-service:1.0.5
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/audit-service/-/tags/1.0.5
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao:audit-domain:1.15-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/audit-domain/-/tags/audit-domain-1.15-SNAPSHOT
+
+
+
+! auth-server:2.7.12
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/auth-server/-/tags/2.7.12
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao:audit-starter:1.27-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/audit-starter/-/tags/audit-starter-1.27-SNAPSHOT
++ ru.spb.iac.isiao:notification-service-api:1.16-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/notification-service-api/-/tags/notification-service-api-1.16-SNAPSHOT
++ ru.spb.iac.isiao:sso-auth-server-domain:1.7-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/auth-server-domain/-/tags/sso-auth-server-domain-1.7-SNAPSHOT
++ ru.spb.iac.isiao:acl-sync-domain:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/acl-sync-domain/-/tags/acl-sync-domain-1.2-SNAPSHOT
++ ru.spb.iac.isiao.doc:apidoc-starter:1.0.0
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/doc/apidoc-starter/-/tags/1.0.0
+
+- ru.spb.iac.isiao.common.core:core-domain:1.0.1-SNAPSHOT
+
+
+
+! calc-service:1.1.13
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/storage/calc-service/-/tags/1.1.13
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao.indicators:report-service-domain:1.1-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/report-service-domain/-/tags/1.1-SNAPSHOT
+
+
+
+
+! citypanel:2.4.8
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/citypanel/-/tags/2.4.8
+
++ ru.spb.iac.isiao:actuator-starter:1.5-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.5-SNAPSHOT
++ ru.spb.iac.isiao:security-starter:1.5-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/security-starter/-/tags/1.5-SNAPSHOT
++ ru.spb.iac.isiao:acl-starter-core:2.2.44-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/acl-starter/-/tags/acl-starter-core-2.2.44-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.154.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.154.0-SNAPSHOT
++ ru.spb.iac.isiao.monitorings:citypanel-domain:1.5-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/citypanel-domain/-/tags/1.5-SNAPSHOT
++ ru.spb.iac.isiao.library:library-service-domain:1.19-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/library-service-domain/-/tags/1.19-SNAPSHOT
++ ru.spb.iac.isiao:acl-starter-domain:1.5.4-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/acl-domain/-/tags/acl-starter-domain-1.5.4-SNAPSHOT
++ ru.spb.iac.isiao:feature-toggle-starter:2.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/feature-toggle-starter/-/tags/2.0-SNAPSHOT
++ ru.spb.iac.isiao:notification-service-api:1.16-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/notification-service-api/-/tags/notification-service-api-1.16-SNAPSHOT
++ ru.spb.iac.isiao:audit-starter:1.26-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/audit-starter/-/tags/audit-starter-1.26-SNAPSHOT
+
+- ru.spb.iac.isiao.common.core:core-domain:1.0.1-SNAPSHOT
+
+
+
+! data-collection:1.1.18
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao:security-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/security-starter/-/tags/1.2-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.5.4-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.5.4-SNAPSHOT
+
+
+
+! data-gateway:2023.04.03.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/storage/data-gateway/-/tags/2023.04.03.1-arkh
+
++ ru.spb.iac.isiao:actuator-starter:1.6-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.6-SNAPSHOT
++ ru.spb.iac.isiao.common.search:search-specification-domain:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/search-specification-domain/-/tags/search-specification-domain-1.2-SNAPSHOT
++ ru.spb.iac.isiao.monitorings:citypanel-domain:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/citypanel-domain/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao.doc:apidoc-starter:2.6.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/doc/apidoc-starter/-/tags/2.6.1
++ ru.spb.iac.isiao.doc:apidoc-starter-test:2.6.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/doc/apidoc-starter/-/tags/2.6.1
+
+
+
+! data-hub:2023.04.03.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/storage/data-hub/-/tags/2023.04.03.1-arkh
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao:acl-starter-core:2.2.44-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/acl-starter/-/tags/acl-starter-core-2.2.44-SNAPSHOT
++ ru.spb.iac.isiao:security-starter:1.7-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/security-starter/-/tags/1.7-SNAPSHOT
++ ru.spb.iac.isiao:acl-starter-domain:1.5.4-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/acl-domain/-/tags/acl-starter-domain-1.5.4-SNAPSHOT
++ ru.spb.iac.isiao:sso-auth-server-domain:1.4-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/auth-server-domain/-/tags/sso-auth-server-domain-1.4-SNAPSHOT
++ ru.spb.iac.isiao.common.search:search-specification-builder:1.13-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/search-specification-builder/-/tags/search-specification-builder-1.13-SNAPSHOT
++ ru.spb.iac.isiao.common.search:search-specification-domain:1.3-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/search-specification-domain/-/tags/search-specification-domain-1.3-SNAPSHOT
++ ru.spb.iac.isiao:notification-service-api:1.14-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/notification-service-api/-/tags/notification-service-api-1.14-SNAPSHOT
++ ru.spb.iac.isiao:audit-starter:1.28-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/audit-starter/-/tags/audit-starter-1.28-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.178.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.178.0-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain-external:1.0.36-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain-external/-/tags/1.0.36-SNAPSHOT
++ ru.spb.iac.isiao:data-access-domain:1.70-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/data-access-domain/-/tags/data-access-domain-1.70-SNAPSHOT
++ ru.spb.iac.isiao.library:library-service-domain:1.29-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/library-service-domain/-/tags/1.29-SNAPSHOT
+
+
+
+! data-receiver:2023.01.25
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/storage/data-receiver/-/tags/2023.01.25-arkh
+
++ ru.spb.iac.isiao:sso-auth-server-domain:1.7-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/auth-server-domain/-/tags/sso-auth-server-domain-1.7-SNAPSHOT
+
++ ru.spb.iac.isiao:actuator-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.2-SNAPSHOT
++ ru.spb.iac.isiao:integration-journal-starter:1.41-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/integration-journal-domain/-/tags/1.41-SNAPSHOT
+ru.spb.iac.isiao:integration-journal-domain:1.101-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.176.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.176.0-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain-spb:1.0.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain-spb/-/tags/1.0.0-SNAPSHOT
++ ru.spb.iac.isiao.doc:apidoc-starter:2.6.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/doc/apidoc-starter/-/tags/2.6.1
++ ru.spb.iac.isiao.doc:apidoc-starter-test:2.6.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/doc/apidoc-starter/-/tags/2.6.1
++ ru.spb.iac.isiao:error-catcher-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/error-catcher-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao.dtovalid:dtovalid-starter:1.0.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/valid/dtovalid-starter/-/tags/1.0.0-SNAPSHOT
++ ru.spb.iac.isiao.util:mapstruct-addons:1.0.0
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/mapstruct-addons/-/tags/1.0.0
+
+
+
+! document-converter-service:1.0.2
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/document-converter-service/-/tags/1.0.2
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao:document-converter-domain:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/document-converter-domain/-/tags/1.0-SNAPSHOT
+
+
+
+! emiss-integration:2023.02.14
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/integration/emiss-integration/-/tags/2023.02.14-arkh
+
++ ru.spb.iac.isiao:actuator-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.2-SNAPSHOT
++ ru.spb.iac.isiao:integration-journal-starter:1.43-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/integration-journal-domain/-/tags/integration-journal-starter-1.43-SNAPSHOT
+ru.spb.iac.isiao:integration-journal-domain:1.102-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.175.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.175.0-SNAPSHOT
+ru.spb.iac.isiao.smev:smev-domain:1.2.0-SNAPSHOT
+
+
+
+! gasu-integration:1.0.0
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/integration/gasu-integration/-/tags/1.0.0
+
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.24.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.24.0-SNAPSHOT
+ru.spb.iac.isiao.smev:smev-domain:1.1.0-SNAPSHOT
+
+
+
+! geo-service:1.0.2
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/geo-service/-/tags/1.0.2
+
++ ru.spb.iac.isiao:actuator-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.2-SNAPSHOT
+ru.spb.iac.isiao.monitorings:citypanel-domain:1.3-SNAPSHOT
+ru.spb.iac.isiao:security-starter:1.6-SNAPSHOT
++ ru.spb.iac.isiao.library:library-service-domain:1.19-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/library-service-domain/-/tags/1.19-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.146.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.146.0-SNAPSHOT
+
+
+
+! indicators-store-service:2.1.38
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/storage/indicators-store-service/-/tags/2.1.38
+
++ ru.spb.iac.isiao:actuator-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.2-SNAPSHOT
+ru.spb.iac.isiao:integration-journal-domain:1.101-SNAPSHOT
+
+
+
+! integration-journal:1.0.18
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/integration-journal/-/tags/1.0.18
+
+ru.spb.iac.isiao:integration-journal-domain:1.99-SNAPSHOT
+ru.spb.iac.isiao:notification-service-domain:1.8-SNAPSHOT
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
+ru.spb.iac.isiao:notification-service-api:1.2-SNAPSHOT
+
+
+! isiao:4.1.2
+http://gitlab.dev.ias.iac.spb.ru/union-complexes/universal-old/-/tags/4.1.2
+
+
+
+! library-service:2023.01.11
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/library-service/-/tags/2023.01.11-arkh
+
++ ru.spb.iac.isiao:actuator-starter:1.5-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.5-SNAPSHOT
+ru.spb.iac.isiao:security-starter:1.8-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.151.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.151.0-SNAPSHOT
++ ru.spb.iac.isiao.library:library-service-domain:1.29-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/library-service-domain/-/tags/1.29-SNAPSHOT
+ru.spb.iac.isiao:acl-starter-core:2.2.41-SNAPSHOT
+ru.spb.iac.isiao:acl-starter-domain:1.5.3-SNAPSHOT
+ru.spb.iac.isiao:notification-service-api:1.16-SNAPSHOT
+
+
+
+! load-service:1.1.1
+http://gitlab.dev.ias.iac.spb.ru/loading-complexes/LoaderWS/-/tags/1.1.1
+
+
+
+! notification-service:1.0.10
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/notification-service/-/tags/1.0.10
+
+ru.spb.iac.isiao:notification-service-domain:1.14-SNAPSHOT
++ ru.spb.iac.isiao:sso-auth-server-domain:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/auth-server-domain/-/tags/sso-auth-server-domain-1.0-SNAPSHOT
++ ru.spb.iac.isiao.library:library-service-domain:1.8-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/library-service-domain/-/tags/1.8-SNAPSHOT
++ ru.spb.iac.isiao:actuator-starter:1.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.0-SNAPSHOT
+ru.spb.iac.isiao.common:exceptions:1.0-SNAPSHOT
+
+
+
+! nsender:1.2.0
+http://gitlab.dev.ias.iac.spb.ru/Senders/NSender/-/tags/1.2.0
+
+
+
+! platform:2023.04.11.1
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/platform/-/tags/2023.04.11.1-arkh
+
+ru.spb.iac.isiao:security-starter:1.6-SNAPSHOT
++ ru.spb.iac.isiao:actuator-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.2-SNAPSHOT
++ ru.spb.iac.isiao:audit-starter:1.4-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/audit-starter/-/tags/audit-starter-1.4-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.154.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.154.0-SNAPSHOT
+ru.spb.iac.isiao:data-refresh-domain:1.10-SNAPSHOT
+ru.spb.iac.isiao.common.core:core-domain:1.0.1-SNAPSHOT
+ru.spb.iac.isiao.notification:notification-domain:1.3-SNAPSHOT
+
+
+
+! report-service:1.3.44
+http://gitlab.dev.ias.iac.spb.ru/isiao/application/platform/report-service/-/tags/1.3.44
+
++ ru.spb.iac.isiao:data-access-starter:1.7-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/data-access-domain/-/tags/data-access-starter-1.7-SNAPSHOT
++ ru.spb.iac.isiao:data-access-domain:1.63-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/data-access-domain/-/tags/data-access-domain-1.63-SNAPSHOT
++ ru.spb.iac.isiao:actuator-starter:1.2-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/actuator-starter/-/tags/1.2-SNAPSHOT
++ ru.spb.iac.isiao.indicators:indicators-domain:2.158.0-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/storage/indicators-domain/-/tags/2.158.0-SNAPSHOT
++ ru.spb.iac.isiao.library:library-service-domain:1.29-SNAPSHOT
+http://gitlab.dev.ias.iac.spb.ru/isiao/library/platform/library-service-domain/-/tags/1.29-SNAPSHOT
+ru.spb.iac.isiao.common:exceptions:1.0-SNAPSHOT
+ru.spb.iac.isiao.indicators:report-service-domain:1.3-SNAPSHOT
+ru.spb.iac.isiao:acl-starter-core:2.2.44-SNAPSHOT
+
+! workbook
+http://gitlab.dev.ias.iac.spb.ru/predictive-analytical-complexes/workbook/-/tags/2.3.2

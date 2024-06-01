@@ -10,6 +10,7 @@
 - [18. 4Sum](18_4sum/README.md)
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
+- [31. Next Permutation](31_next_permutation/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
 - [88. Merge Sorted Array](88_merge_sorted_array/README.md)
