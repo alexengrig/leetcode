@@ -14,6 +14,7 @@
 - [35. Search Insert Position](35_search_insert_position/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
 - [88. Merge Sorted Array](88_merge_sorted_array/README.md)
+- [136. Single Number](136_single_number/README.md)
 - [153. Find Minimum in Rotated Sorted Array](153_find_minimum_in_rotated_sorted_array/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [238. Product of Array Except Self](238_product_of_array_except_self/README.md)
