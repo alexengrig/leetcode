@@ -12,6 +12,7 @@
 - [27. Remove Element](27_remove_element/README.md)
 - [31. Next Permutation](31_next_permutation/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
+- [66. Plus One](66_plus_one/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
 - [88. Merge Sorted Array](88_merge_sorted_array/README.md)
 - [136. Single Number](136_single_number/README.md)
