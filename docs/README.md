@@ -8,6 +8,7 @@
 - [15. 3Sum](15_3sum/README.md)
 - [16. 3Sum Closest](16_3sum_closest/README.md)
 - [18. 4Sum](18_4sum/README.md)
+- [20. Valid Parentheses](20_valid_parentheses/README.md)
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
 - [31. Next Permutation](31_next_permutation/README.md)
