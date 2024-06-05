@@ -12,6 +12,7 @@
 - [21. Merge Two Sorted Lists](21_merge_two_sorted_lists/README.md)
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
+- [28. Find the Index of the First Occurrence in a String](28_find_index_of_first_occurrence_in_string/README.md)
 - [31. Next Permutation](31_next_permutation/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
 - [66. Plus One](66_plus_one/README.md)
