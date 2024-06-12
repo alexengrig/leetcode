@@ -14,6 +14,7 @@
 - [27. Remove Element](27_remove_element/README.md)
 - [28. Find the Index of the First Occurrence in a String](28_find_index_of_first_occurrence_in_string/README.md)
 - [31. Next Permutation](31_next_permutation/README.md)
+- [33. Search in Rotated Sorted Array](33_search_in_rotated_sorted_array/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
 - [66. Plus One](66_plus_one/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
