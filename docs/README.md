@@ -26,6 +26,7 @@
 - [268. Missing Number](268_missing_number/README.md)
 - [278. First Bad Version](278_first_bad_version/README.md)
 - [283. Move Zeroes](283_move_zeroes/README.md)
+- [367. Valid Perfect Square](367_valid_perfect_square/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [704. Binary Search](704_binary_search/README.md)
 - [744. Find Smallest Letter Greater Than Target](744_find_smallest_letter_greater_than_target/README.md)
