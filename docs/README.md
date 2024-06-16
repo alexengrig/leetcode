@@ -17,6 +17,7 @@
 - [33. Search in Rotated Sorted Array](33_search_in_rotated_sorted_array/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
 - [66. Plus One](66_plus_one/README.md)
+- [69. Sqrt(x)](69_sqrtx/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
 - [88. Merge Sorted Array](88_merge_sorted_array/README.md)
 - [136. Single Number](136_single_number/README.md)
