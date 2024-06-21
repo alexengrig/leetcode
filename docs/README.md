@@ -43,3 +43,4 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
 - [2906. Construct Product Matrix](2906_construct_product_matrix/README.md)
+- [2951. Find the Peaks](2951_find_peaks/README.md)
