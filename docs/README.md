@@ -16,6 +16,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [20. Valid Parentheses](20_valid_parentheses/README.md)
 - [21. Merge Two Sorted Lists](21_merge_two_sorted_lists/README.md)
 - [24. Swap Nodes in Pairs](24_swap_nodes_in_pairs/README.md)
+- [25. Reverse Nodes in k-Group](25_reverse_nodes_in_k_group/README.md)
 - [26. Remove Duplicates from Sorted Array](26_remove_duplicates_from_sorted_array/README.md)
 - [27. Remove Element](27_remove_element/README.md)
 - [28. Find the Index of the First Occurrence in a String](28_find_index_of_first_occurrence_in_string/README.md)
