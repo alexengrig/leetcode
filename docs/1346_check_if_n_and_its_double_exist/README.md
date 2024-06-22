@@ -16,7 +16,7 @@ Beats 24.50% of users with Java
 
 ## [Binary code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_1346_check_if_n_and_its_double_exist/BinarySolution.java)
 
-**Time complexity: O(nlog(n))**
+**Time complexity: O(n*log(n))**
 
 **Space complexity: O(1)**
 
