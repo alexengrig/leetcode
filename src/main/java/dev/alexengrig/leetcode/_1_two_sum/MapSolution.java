@@ -1,19 +1,19 @@
 package dev.alexengrig.leetcode._1_two_sum;
 
 import java.util.HashMap;
+import java.util.Map;
 
 class MapSolution implements Task {
     @Override
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<>((int) Math.ceil(nums.length / 0.75));
-        map.put(target - nums[0], 0);
-        int l, j, i, num;
-        for (j = 1, l = nums.length; j < l; j++) {
-            if (map.containsKey((num = nums[j])) && (i = map.get(num)) != j) {
-                return new int[]{i, j};
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            Integer value = map.get(nums[i]);
+            if (value != null) {
+                return new int[]{value, i};
             }
-            map.put(target - num, j);
+            map.put(target - nums[i], i);
         }
-        throw new IllegalArgumentException("No sum of " + target);
+        throw new IllegalArgumentException(); // unreachable
     }
 }
