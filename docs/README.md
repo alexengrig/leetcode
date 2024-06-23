@@ -26,6 +26,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [33. Search in Rotated Sorted Array](33_search_in_rotated_sorted_array/README.md)
 - [34. Find First and Last Position of Element in Sorted Array](34_find_first_and_last_position_in_sorted_array/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
+- [61. Rotate List](61_rotate_list/README.md)
 - [66. Plus One](66_plus_one/README.md)
 - [69. Sqrt(x)](69_sqrtx/README.md)
 - [74. Search a 2D Matrix](74_search_2d_matrix/README.md)
