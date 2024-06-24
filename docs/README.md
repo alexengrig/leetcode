@@ -7,6 +7,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 
 - [1. Two Sum](1_two_sum/README.md)
 - [2. Add Two Numbers](2_add_two_numbers/README.md)
+- [3. Longest Substring Without Repeating Characters](3_longest_substring_without_repeating_characters/README.md)
 - [9. Palindrome Number](9_palindrome_number/README.md)
 - [11. Container With Most Water](11_container_with_most_water/README.md)
 - [13. Roman to Integer](13_roman_to_integer/README.md)
