@@ -46,6 +46,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [283. Move Zeroes](283_move_zeroes/README.md)
 - [367. Valid Perfect Square](367_valid_perfect_square/README.md)
 - [374. Guess Number Higher or Lower](374_guess_number_higher_or_lower/README.md)
+- [424. Longest Repeating Character Replacement](424_longest_repeating_character_replacement/README.md)
 - [438. Find All Anagrams in a String](438_find_all_anagrams_in_string/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [704. Binary Search](704_binary_search/README.md)
