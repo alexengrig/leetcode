@@ -1,26 +1,27 @@
 package dev.alexengrig.leetcode._20_valid_parentheses;
 
 import java.util.ArrayDeque;
+import java.util.Deque;
 
 class Solution implements Task {
     @Override
     public boolean isValid(String s) {
-        var stack = new ArrayDeque<Character>(s.length());
+        Deque<Character> stack = new ArrayDeque<>(s.length());
         char prev;
-        for (char cur : s.toCharArray()) {
-            if (cur == '(' || cur == '{' || cur == '[') {
-                stack.addFirst(cur);
-                continue;
-            }
-            if (stack.isEmpty()) {
+        for (char curr : s.toCharArray()) {
+            if (curr == '(' || curr == '[' || curr == '{') {
+                stack.addFirst(curr);
+            } else if (stack.isEmpty()) {
                 return false;
-            }
-            prev = stack.removeFirst();
-            if ((cur == ')' && prev != '(')
-                || (cur == '}' && prev != '{')
-                || (cur == ']' && prev != '[')
-            ) {
-                return false;
+            } else {
+                prev = stack.removeFirst();
+                if (curr == ')' && prev != '(') {
+                    return false;
+                } else if (curr == ']' && prev != '[') {
+                    return false;
+                } else if (curr == '}' && prev != '{') {
+                    return false;
+                }
             }
         }
         return stack.isEmpty();
