@@ -45,6 +45,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [268. Missing Number](268_missing_number/README.md)
 - [278. First Bad Version](278_first_bad_version/README.md)
 - [283. Move Zeroes](283_move_zeroes/README.md)
+- [347. Top K Frequent Elements](347_top_k_frequent_elements/README.md)
 - [367. Valid Perfect Square](367_valid_perfect_square/README.md)
 - [374. Guess Number Higher or Lower](374_guess_number_higher_or_lower/README.md)
 - [424. Longest Repeating Character Replacement](424_longest_repeating_character_replacement/README.md)
