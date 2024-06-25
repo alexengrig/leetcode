@@ -50,6 +50,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [424. Longest Repeating Character Replacement](424_longest_repeating_character_replacement/README.md)
 - [438. Find All Anagrams in a String](438_find_all_anagrams_in_string/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
+- [692. Top K Frequent Words](692_top_k_frequent_words/README.md)
 - [704. Binary Search](704_binary_search/README.md)
 - [744. Find Smallest Letter Greater Than Target](744_find_smallest_letter_greater_than_target/README.md)
 - [852. Peak Index in a Mountain Array](852_peak_index_in_mountain_array/README.md)
