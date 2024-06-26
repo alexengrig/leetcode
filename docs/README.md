@@ -10,6 +10,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [3. Longest Substring Without Repeating Characters](3_longest_substring_without_repeating_characters/README.md)
 - [9. Palindrome Number](9_palindrome_number/README.md)
 - [11. Container With Most Water](11_container_with_most_water/README.md)
+- [12. Integer to Roman](12_integer_to_roman/README.md)
 - [13. Roman to Integer](13_roman_to_integer/README.md)
 - [15. 3Sum](15_3sum/README.md)
 - [16. 3Sum Closest](16_3sum_closest/README.md)
