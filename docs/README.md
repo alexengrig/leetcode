@@ -12,6 +12,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [11. Container With Most Water](11_container_with_most_water/README.md)
 - [12. Integer to Roman](12_integer_to_roman/README.md)
 - [13. Roman to Integer](13_roman_to_integer/README.md)
+- [14. Longest Common Prefix](14_longest_common_prefix/README.md)
 - [15. 3Sum](15_3sum/README.md)
 - [16. 3Sum Closest](16_3sum_closest/README.md)
 - [18. 4Sum](18_4sum/README.md)
