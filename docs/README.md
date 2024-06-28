@@ -62,6 +62,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [852. Peak Index in a Mountain Array](852_peak_index_in_mountain_array/README.md)
 - [1346. Check If N and Its Double Exist](1346_check_if_n_and_its_double_exist/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
+- [1493. Longest Subarray of 1's After Deleting One Element](1493_longest_subarray_1_after_deleting_element/README.md)
 - [1901. Find a Peak Element II](1901_find_peak_element2/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
 - [2906. Construct Product Matrix](2906_construct_product_matrix/README.md)
