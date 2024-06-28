@@ -58,6 +58,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [692. Top K Frequent Words](692_top_k_frequent_words/README.md)
 - [704. Binary Search](704_binary_search/README.md)
 - [744. Find Smallest Letter Greater Than Target](744_find_smallest_letter_greater_than_target/README.md)
+- [849. Maximize Distance to Closest Person](849_maximize_distance_to_closest_person/README.md)
 - [852. Peak Index in a Mountain Array](852_peak_index_in_mountain_array/README.md)
 - [1346. Check If N and Its Double Exist](1346_check_if_n_and_its_double_exist/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
