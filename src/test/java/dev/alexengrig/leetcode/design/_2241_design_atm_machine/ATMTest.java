@@ -43,8 +43,8 @@ class ATMTest {
 
     @ParameterizedTest
     @MethodSource("provideSolutions")
-    void test0(ATM list) {
-        assertActions(list, new ATMTest.ActionsAndValues(
+    void test0(ATM atm) {
+        assertActions(atm, new ATMTest.ActionsAndValues(
                 new String[]{"ATM", "deposit", "withdraw", "deposit", "withdraw", "withdraw"},
                 new int[][]{{}, {0, 0, 1, 2, 1}, {600}, {0, 1, 0, 1, 1}, {600}, {550}},
                 new Integer[][]{null, null, {0, 0, 1, 0, 1}, null, {-1}, {0, 1, 0, 0, 1}}
