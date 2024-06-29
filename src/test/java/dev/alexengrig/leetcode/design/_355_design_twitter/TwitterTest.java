@@ -4,7 +4,6 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -25,6 +24,7 @@ class TwitterTest {
             int[] values = av.values[i];
             Integer[] expectedValues = av.expectedValues[i];
             switch (action) {
+                case "Twitter" -> assertNull(expectedValues);
                 case "postTweet" -> {
                     twitter.postTweet(values[0], values[1]);
                     assertNull(expectedValues);
@@ -64,12 +64,9 @@ class TwitterTest {
         public ActionsAndValues(String[] actions, int[][] values, Integer[][] expectedValues) {
             assertEquals(actions.length, values.length);
             assertEquals(values.length, expectedValues.length);
-            // skip "Twitter"
-            this.actions = Arrays.copyOfRange(actions, 1, actions.length);
-            // skip []
-            this.values = Arrays.copyOfRange(values, 1, values.length);
-            // skip []
-            this.expectedValues = Arrays.copyOfRange(expectedValues, 1, expectedValues.length);
+            this.actions = actions;
+            this.values = values;
+            this.expectedValues = expectedValues;
         }
     }
 }

@@ -4,7 +4,6 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import java.util.Arrays;
 import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -24,6 +23,7 @@ class MyLinkedListTest {
             int[] values = av.values[i];
             Integer expectedValue = av.expectedValues[i];
             switch (action) {
+                case "MyLinkedList" -> assertNull(expectedValue);
                 case "get" -> assertEquals(expectedValue, list.get(values[0]));
                 case "addAtHead" -> {
                     list.addAtHead(values[0]);
@@ -74,12 +74,9 @@ class MyLinkedListTest {
         public ActionsAndValues(String[] actions, int[][] values, Integer[] expectedValues) {
             assertEquals(actions.length, values.length);
             assertEquals(values.length, expectedValues.length);
-            // skip "MyLinkedList"
-            this.actions = Arrays.copyOfRange(actions, 1, actions.length);
-            // skip []
-            this.values = Arrays.copyOfRange(values, 1, values.length);
-            // skip []
-            this.expectedValues = Arrays.copyOfRange(expectedValues, 1, expectedValues.length);
+            this.actions = actions;
+            this.values = values;
+            this.expectedValues = expectedValues;
         }
     }
 }
