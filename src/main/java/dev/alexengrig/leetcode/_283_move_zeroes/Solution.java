@@ -3,17 +3,14 @@ package dev.alexengrig.leetcode._283_move_zeroes;
 class Solution implements Task {
     @Override
     public void moveZeroes(int[] nums) {
-        int index = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                swap(nums, index++, i);
+        int tmp;
+        for (int left = 0, right = 0, n = nums.length; right < n; right++) {
+            if (nums[right] != 0) {
+                tmp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = tmp;
+                left++;
             }
         }
-    }
-
-    void swap(int[] nums, int from, int to) {
-        int temp = nums[to];
-        nums[to] = nums[from];
-        nums[from] = temp;
     }
 }
