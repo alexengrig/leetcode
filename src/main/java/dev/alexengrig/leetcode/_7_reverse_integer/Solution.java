@@ -1,11 +1,13 @@
 package dev.alexengrig.leetcode._7_reverse_integer;
 
-class Solution {
+class Solution implements Task {
+    @Override
     public int reverse(int x) {
-        long temp = 0;
+        long result = 0;
         for (int i = x; i != 0; i /= 10) {
-            temp = temp * 10 + i % 10;
+            result *= 10;
+            result += i % 10;
         }
-        return (int) temp == temp ? (int) temp : 0;
+        return result == (int) result ? (int) result : 0;
     }
 }
