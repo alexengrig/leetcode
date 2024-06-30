@@ -1,6 +1,7 @@
 package dev.alexengrig.leetcode._8_string_to_integer_atoi;
 
-class Solution {
+class Solution implements Task {
+    @Override
     public int myAtoi(String s) {
         final char[] chars = s.toCharArray();
         final int l = chars.length;
