@@ -74,5 +74,6 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1493. Longest Subarray of 1's After Deleting One Element](1493_longest_subarray_1_after_deleting_element/README.md)
 - [1901. Find a Peak Element II](1901_find_peak_element2/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
+- [2657. Find the Prefix Common Array of Two Arrays](2657_find_prefix_common_array_of_two_arrays/README.md)
 - [2906. Construct Product Matrix](2906_construct_product_matrix/README.md)
 - [2951. Find the Peaks](2951_find_peaks/README.md)
