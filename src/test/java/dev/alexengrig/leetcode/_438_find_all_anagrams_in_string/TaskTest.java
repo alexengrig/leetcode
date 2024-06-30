@@ -12,8 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class TaskTest {
     static Stream<Arguments> provideSolutions() {
         return Stream.of(
-                Arguments.of(new AlphabetSolution()),
-                Arguments.of(new MapSolution())
+                Arguments.of(new AlphabetSolution())
         );
     }
 
