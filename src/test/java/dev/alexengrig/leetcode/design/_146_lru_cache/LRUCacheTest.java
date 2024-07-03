@@ -24,7 +24,7 @@ class LRUCacheTest {
         for (int i = 0; i < av.actions.length; i++) {
             String action = av.actions[i];
             int[] values = av.values[i];
-            Integer expectedValues = av.expectedValues[i];
+            Integer expectedValue = av.expectedValues[i];
             switch (action) {
                 case "LRUCache" -> {
                     assertNull(cache);
@@ -33,7 +33,7 @@ class LRUCacheTest {
                 }
                 case "get" -> {
                     assertNotNull(cache);
-                    assertEquals(expectedValues, cache.get(values[0]));
+                    assertEquals(expectedValue, cache.get(values[0]));
                 }
                 case "put" -> {
                     assertNotNull(cache);
