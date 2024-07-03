@@ -1,6 +1,7 @@
 # [Design](https://leetcode.com/tag/design/)
 
 - [146. LRU Cache](146_lru_cache/README.md)
+- [155. Min Stack](155_min_stack/README.md)
 - [341. Flatten Nested List Iterator](341_flatten_nested_list_iterator/README.md)
 - [355. Design Twitter](355_design_twitter/README.md)
 - [380. Insert Delete GetRandom O(1)](380_insert_delete_getrandom/README.md)
