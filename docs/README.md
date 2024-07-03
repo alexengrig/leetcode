@@ -45,6 +45,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [153. Find Minimum in Rotated Sorted Array](153_find_minimum_in_rotated_sorted_array/README.md)
 - [154. Find Minimum in Rotated Sorted Array II](154_find_minimum_in_rotated_sorted_array2/README.md)
 - [162. Find Peak Element](162_find_peak_element/README.md)
+- [205. Isomorphic Strings](205_isomorphic_strings/README.md)
 - [206. Reverse Linked List](206_reverse_linked_list/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [228. Summary Ranges](228_summary_ranges/README.md)
