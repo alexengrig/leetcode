@@ -66,6 +66,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [567. Permutation in String](567_permutation_in_string/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [658. Find K Closest Elements](658_find_k_closest_elements/README.md)
+- [680. Valid Palindrome II](680_valid_palindrome2/README.md)
 - [692. Top K Frequent Words](692_top_k_frequent_words/README.md)
 - [704. Binary Search](704_binary_search/README.md)
 - [744. Find Smallest Letter Greater Than Target](744_find_smallest_letter_greater_than_target/README.md)
