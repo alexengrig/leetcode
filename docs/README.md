@@ -36,6 +36,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [61. Rotate List](61_rotate_list/README.md)
 - [66. Plus One](66_plus_one/README.md)
 - [69. Sqrt(x)](69_sqrtx/README.md)
+- [71. Simplify Path](71_simplify_path/README.md)
 - [74. Search a 2D Matrix](74_search_2d_matrix/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
 - [76. Minimum Window Substring](76_minimum_window_substring/README.md)
