@@ -78,6 +78,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [977. Squares of a Sorted Array](977_squares_of_sorted_array/README.md)
 - [986. Interval List Intersections](986_interval_list_intersections/README.md)
 - [1004. Max Consecutive Ones III](1004_max_consecutive_ones3/README.md)
+- [1329. Sort the Matrix Diagonally](1329_sort_the_matrix_diagonally/README.md)
 - [1346. Check If N and Its Double Exist](1346_check_if_n_and_its_double_exist/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
 - [1436. Destination City](1436_destination_city/README.md)
