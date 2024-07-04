@@ -58,6 +58,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [278. First Bad Version](278_first_bad_version/README.md)
 - [283. Move Zeroes](283_move_zeroes/README.md)
 - [347. Top K Frequent Elements](347_top_k_frequent_elements/README.md)
+- [349. Intersection of Two Arrays](349_intersection_of_two_arrays/README.md)
 - [350. Intersection of Two Arrays II](350_intersection_of_two_arrays2/README.md)
 - [367. Valid Perfect Square](367_valid_perfect_square/README.md)
 - [374. Guess Number Higher or Lower](374_guess_number_higher_or_lower/README.md)
