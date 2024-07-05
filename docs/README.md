@@ -52,6 +52,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [206. Reverse Linked List](206_reverse_linked_list/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [228. Summary Ranges](228_summary_ranges/README.md)
+- [234. Palindrome Linked List](234_palindrome_linked_list/README.md)
 - [238. Product of Array Except Self](238_product_of_array_except_self/README.md)
 - [242. Valid Anagram](242_valid_anagram/README.md)
 - [268. Missing Number](268_missing_number/README.md)
