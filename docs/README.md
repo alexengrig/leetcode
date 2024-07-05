@@ -63,6 +63,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [350. Intersection of Two Arrays II](350_intersection_of_two_arrays2/README.md)
 - [367. Valid Perfect Square](367_valid_perfect_square/README.md)
 - [374. Guess Number Higher or Lower](374_guess_number_higher_or_lower/README.md)
+- [387. First Unique Character in a String](387_first_unique_character_in_string/README.md)
 - [424. Longest Repeating Character Replacement](424_longest_repeating_character_replacement/README.md)
 - [438. Find All Anagrams in a String](438_find_all_anagrams_in_string/README.md)
 - [443. String Compression](443_string_compression/README.md)
