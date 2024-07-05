@@ -65,6 +65,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [424. Longest Repeating Character Replacement](424_longest_repeating_character_replacement/README.md)
 - [438. Find All Anagrams in a String](438_find_all_anagrams_in_string/README.md)
 - [443. String Compression](443_string_compression/README.md)
+- [485. Max Consecutive Ones](485_max_consecutive_ones/README.md)
 - [557. Reverse Words in a String III](557_reverse_words_in_string3/README.md)
 - [567. Permutation in String](567_permutation_in_string/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
