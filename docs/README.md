@@ -44,6 +44,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [100. Same Tree](100_same_tree/README.md)
 - [101. Symmetric Tree](101_symmetric_tree/README.md)
 - [110. Balanced Binary Tree](110_balanced_binary_tree/README.md)
+- [113. Path Sum II](113_path_sum2/README.md)
 - [125. Valid Palindrome](125_valid_palindrome/README.md)
 - [136. Single Number](136_single_number/README.md)
 - [141. Linked List Cycle](141_linked_list_cycle/README.md)
