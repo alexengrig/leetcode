@@ -44,6 +44,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [98. Validate Binary Search Tree](98_validate_binary_search_tree/README.md)
 - [100. Same Tree](100_same_tree/README.md)
 - [101. Symmetric Tree](101_symmetric_tree/README.md)
+- [103. Binary Tree Zigzag Level Order Traversal](103_binary_tree_zigzag_level_order_traversal/README.md)
 - [104. Maximum Depth of Binary Tree](104_maximum_depth_of_binary_tree/README.md)
 - [108. Convert Sorted Array to Binary Search Tree](108_convert_sorted_array_to_binary_search_tree/README.md)
 - [110. Balanced Binary Tree](110_balanced_binary_tree/README.md)
