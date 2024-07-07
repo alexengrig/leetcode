@@ -103,6 +103,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1493. Longest Subarray of 1's After Deleting One Element](1493_longest_subarray_1_after_deleting_element/README.md)
 - [1572. Matrix Diagonal Sum](1572_matrix_diagonal_sum/README.md)
 - [1901. Find a Peak Element II](1901_find_peak_element2/README.md)
+- [1909. Remove One Element to Make the Array Strictly Increasing](1909_remove_element_to_array_increasing/README.md)
 - [2215. Find the Difference of Two Arrays](2215_find_the_difference_of_two_arrays/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
 - [2657. Find the Prefix Common Array of Two Arrays](2657_find_prefix_common_array_of_two_arrays/README.md)
