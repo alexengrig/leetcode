@@ -82,6 +82,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [557. Reverse Words in a String III](557_reverse_words_in_string3/README.md)
 - [567. Permutation in String](567_permutation_in_string/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
+- [652. Find Duplicate Subtrees](652_find_duplicate_subtrees/README.md)
 - [657. Robot Return to Origin](657_robot_return_to_origin/README.md)
 - [658. Find K Closest Elements](658_find_k_closest_elements/README.md)
 - [680. Valid Palindrome II](680_valid_palindrome2/README.md)
