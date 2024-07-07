@@ -99,6 +99,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1346. Check If N and Its Double Exist](1346_check_if_n_and_its_double_exist/README.md)
 - [1431. Kids With the Greatest Number of Candies](1431_kids_with_greatest_candies/README.md)
 - [1436. Destination City](1436_destination_city/README.md)
+- [1466. Reorder Routes to Make All Paths Lead to the City Zero](1466_reorder_routes_to_lead_to_city_zero/README.md)
 - [1493. Longest Subarray of 1's After Deleting One Element](1493_longest_subarray_1_after_deleting_element/README.md)
 - [1572. Matrix Diagonal Sum](1572_matrix_diagonal_sum/README.md)
 - [1901. Find a Peak Element II](1901_find_peak_element2/README.md)
