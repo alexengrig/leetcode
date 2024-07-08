@@ -49,6 +49,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [108. Convert Sorted Array to Binary Search Tree](108_convert_sorted_array_to_binary_search_tree/README.md)
 - [110. Balanced Binary Tree](110_balanced_binary_tree/README.md)
 - [113. Path Sum II](113_path_sum2/README.md)
+- [121. Best Time to Buy and Sell Stock](121_best_time_to_buy_and_sell_stock/README.md)
 - [125. Valid Palindrome](125_valid_palindrome/README.md)
 - [136. Single Number](136_single_number/README.md)
 - [141. Linked List Cycle](141_linked_list_cycle/README.md)
