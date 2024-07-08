@@ -56,6 +56,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [153. Find Minimum in Rotated Sorted Array](153_find_minimum_in_rotated_sorted_array/README.md)
 - [154. Find Minimum in Rotated Sorted Array II](154_find_minimum_in_rotated_sorted_array2/README.md)
 - [162. Find Peak Element](162_find_peak_element/README.md)
+- [169. Majority Element](169_majority_element/README.md)
 - [199. Binary Tree Right Side View](199_binary_tree_right_side_view/README.md)
 - [205. Isomorphic Strings](205_isomorphic_strings/README.md)
 - [206. Reverse Linked List](206_reverse_linked_list/README.md)
