@@ -21,6 +21,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [19. Remove Nth Node From End of List](19_remove_nth_node_from_end_of_list/README.md)
 - [20. Valid Parentheses](20_valid_parentheses/README.md)
 - [21. Merge Two Sorted Lists](21_merge_two_sorted_lists/README.md)
+- [22. Generate Parentheses](22_generate_parentheses/README.md)
 - [23. Merge k Sorted Lists](23_merge_k_sorted_lists/README.md)
 - [24. Swap Nodes in Pairs](24_swap_nodes_in_pairs/README.md)
 - [25. Reverse Nodes in k-Group](25_reverse_nodes_in_k_group/README.md)
