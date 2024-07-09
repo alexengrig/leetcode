@@ -30,4 +30,12 @@ class TaskTest {
         solution.moveZeroes(nums);
         assertArrayEquals(new int[]{0}, nums);
     }
+
+    @ParameterizedTest
+    @MethodSource("provideSolutions")
+    void test2(Task solution) {
+        int[] nums = {1, 0, 2, 0, 3};
+        solution.moveZeroes(nums);
+        assertArrayEquals(new int[]{1, 2, 3, 0, 0}, nums);
+    }
 }
