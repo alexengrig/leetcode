@@ -70,6 +70,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [242. Valid Anagram](242_valid_anagram/README.md)
 - [268. Missing Number](268_missing_number/README.md)
 - [278. First Bad Version](278_first_bad_version/README.md)
+- [279. Perfect Squares](279_perfect_squares/README.md)
 - [283. Move Zeroes](283_move_zeroes/README.md)
 - [300. Longest Increasing Subsequence](300_longest_increasing_subsequence/README.md)
 - [347. Top K Frequent Elements](347_top_k_frequent_elements/README.md)
