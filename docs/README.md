@@ -65,6 +65,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [199. Binary Tree Right Side View](199_binary_tree_right_side_view/README.md)
 - [205. Isomorphic Strings](205_isomorphic_strings/README.md)
 - [206. Reverse Linked List](206_reverse_linked_list/README.md)
+- [215. Kth Largest Element in an Array](215_kth_largest_element_in_array/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [228. Summary Ranges](228_summary_ranges/README.md)
 - [234. Palindrome Linked List](234_palindrome_linked_list/README.md)
