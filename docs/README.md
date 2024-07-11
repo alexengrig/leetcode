@@ -104,6 +104,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [704. Binary Search](704_binary_search/README.md)
 - [739. Daily Temperatures](739_daily_temperatures/README.md)
 - [744. Find Smallest Letter Greater Than Target](744_find_smallest_letter_greater_than_target/README.md)
+- [841. Keys and Rooms](841_keys_and_rooms/README.md)
 - [844. Backspace String Compare](844_backspace_string_compare/README.md)
 - [849. Maximize Distance to Closest Person](849_maximize_distance_to_closest_person/README.md)
 - [852. Peak Index in a Mountain Array](852_peak_index_in_mountain_array/README.md)
