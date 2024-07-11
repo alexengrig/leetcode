@@ -91,6 +91,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [463. Island Perimeter](463_island_perimeter/README.md)
 - [485. Max Consecutive Ones](485_max_consecutive_ones/README.md)
 - [557. Reverse Words in a String III](557_reverse_words_in_string3/README.md)
+- [560. Subarray Sum Equals K](560_subarray_sum_equals_k/README.md)
 - [567. Permutation in String](567_permutation_in_string/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
 - [652. Find Duplicate Subtrees](652_find_duplicate_subtrees/README.md)
