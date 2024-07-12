@@ -28,9 +28,11 @@ class MyRandomizedSet implements RandomizedSet {
         }
         int lastIndex = values.size() - 1;
         int lastVal = values.get(lastIndex);
-        values.set(index, lastVal);
+        if (val != lastVal) {
+            values.set(index, lastVal);
+            val2Idx.put(lastVal, index);
+        }
         values.remove(lastIndex);
-        val2Idx.put(lastVal, index);
         val2Idx.remove(val);
         return true;
     }
