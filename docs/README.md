@@ -104,6 +104,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [680. Valid Palindrome II](680_valid_palindrome2/README.md)
 - [692. Top K Frequent Words](692_top_k_frequent_words/README.md)
 - [704. Binary Search](704_binary_search/README.md)
+- [714. Best Time to Buy and Sell Stock with Transaction Fee](714_best_time_to_buy_and_sell_stock_with_fee/README.md)
 - [739. Daily Temperatures](739_daily_temperatures/README.md)
 - [744. Find Smallest Letter Greater Than Target](744_find_smallest_letter_greater_than_target/README.md)
 - [841. Keys and Rooms](841_keys_and_rooms/README.md)
