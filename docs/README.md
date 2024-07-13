@@ -9,6 +9,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1. Two Sum](1_two_sum/README.md)
 - [2. Add Two Numbers](2_add_two_numbers/README.md)
 - [3. Longest Substring Without Repeating Characters](3_longest_substring_without_repeating_characters/README.md)
+- [5. Longest Palindromic Substring](5_longest_palindromic_substring/README.md)
 - [7. Reverse Integer](7_reverse_integer/README.md)
 - [8. String to Integer (atoi)](8_string_to_integer_atoi/README.md)
 - [9. Palindrome Number](9_palindrome_number/README.md)
