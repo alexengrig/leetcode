@@ -89,6 +89,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [374. Guess Number Higher or Lower](374_guess_number_higher_or_lower/README.md)
 - [387. First Unique Character in a String](387_first_unique_character_in_string/README.md)
 - [392. Is Subsequence](392_is_subsequence/README.md)
+- [395. Longest Substring with At Least K Repeating Characters](395_longest_substring_with_k_repeating/README.md)
 - [404. Sum of Left Leaves](404_sum_of_left_leaves/README.md)
 - [419. Battleships in a Board](419_battleships_in_board/README.md)
 - [424. Longest Repeating Character Replacement](424_longest_repeating_character_replacement/README.md)
