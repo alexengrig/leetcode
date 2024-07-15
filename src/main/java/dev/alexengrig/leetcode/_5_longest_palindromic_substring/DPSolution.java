@@ -9,8 +9,9 @@ class DPSolution implements Task {
         int begin = 0, len = 1;
         for (int i = n - 2; i >= 0; i--) {
             for (int j = i + 1; j < n; j++) {
-                dp[i][j] = true;
-                if (s.charAt(i) == s.charAt(j)) {
+                if (s.charAt(i) != s.charAt(j)) {
+                    dp[i][j] = true;
+                } else {
                     dp[i][j] = dp[i + 1][j - 1];
                     if (!dp[i][j] && len < j - i + 1) {
                         begin = i;
