@@ -126,6 +126,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](1466_reorder_routes_to_lead_to_city_zero/README.md)
 - [1493. Longest Subarray of 1's After Deleting One Element](1493_longest_subarray_1_after_deleting_element/README.md)
 - [1572. Matrix Diagonal Sum](1572_matrix_diagonal_sum/README.md)
+- [1605. Find Valid Matrix Given Row and Column Sums](1605_find_valid_matrix_given_row_and_col_sums/README.md)
 - [1901. Find a Peak Element II](1901_find_peak_element2/README.md)
 - [1909. Remove One Element to Make the Array Strictly Increasing](1909_remove_element_to_array_increasing/README.md)
 - [2215. Find the Difference of Two Arrays](2215_find_the_difference_of_two_arrays/README.md)
