@@ -102,6 +102,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [567. Permutation in String](567_permutation_in_string/README.md)
 - [581. Shortest Unsorted Continuous Subarray](581_shortest_unsorted_continuous_subarray/README.md)
 - [605. Can Place Flowers](605_can_place_flowers/README.md)
+- [649. Dota2 Senate](649_dota2_senate/README.md)
 - [652. Find Duplicate Subtrees](652_find_duplicate_subtrees/README.md)
 - [657. Robot Return to Origin](657_robot_return_to_origin/README.md)
 - [658. Find K Closest Elements](658_find_k_closest_elements/README.md)
