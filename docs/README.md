@@ -64,6 +64,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [153. Find Minimum in Rotated Sorted Array](153_find_minimum_in_rotated_sorted_array/README.md)
 - [154. Find Minimum in Rotated Sorted Array II](154_find_minimum_in_rotated_sorted_array2/README.md)
 - [162. Find Peak Element](162_find_peak_element/README.md)
+- [167. Two Sum II - Input Array Is Sorted](167_two_sum2_input_array_is_sorted/README.md)
 - [169. Majority Element](169_majority_element/README.md)
 - [199. Binary Tree Right Side View](199_binary_tree_right_side_view/README.md)
 - [200. Number of Islands](200_number_of_islands/README.md)
