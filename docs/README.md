@@ -70,6 +70,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [200. Number of Islands](200_number_of_islands/README.md)
 - [205. Isomorphic Strings](205_isomorphic_strings/README.md)
 - [206. Reverse Linked List](206_reverse_linked_list/README.md)
+- [209. Minimum Size Subarray Sum](209_minimum_size_subarray_sum/README.md)
 - [215. Kth Largest Element in an Array](215_kth_largest_element_in_array/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
 - [228. Summary Ranges](228_summary_ranges/README.md)
