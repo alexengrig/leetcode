@@ -73,6 +73,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [209. Minimum Size Subarray Sum](209_minimum_size_subarray_sum/README.md)
 - [215. Kth Largest Element in an Array](215_kth_largest_element_in_array/README.md)
 - [217. Contains Duplicate](217_contains_duplicate/README.md)
+- [222. Count Complete Tree Nodes](222_count_complete_tree_nodes/README.md)
 - [228. Summary Ranges](228_summary_ranges/README.md)
 - [234. Palindrome Linked List](234_palindrome_linked_list/README.md)
 - [235. Lowest Common Ancestor of a Binary Search Tree](235_lca_of_bst/README.md)
