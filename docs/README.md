@@ -134,6 +134,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [1901. Find a Peak Element II](1901_find_peak_element2/README.md)
 - [1909. Remove One Element to Make the Array Strictly Increasing](1909_remove_element_to_array_increasing/README.md)
 - [2215. Find the Difference of Two Arrays](2215_find_the_difference_of_two_arrays/README.md)
+- [2255. Count Prefixes of a Given String](2255_count_prefixes_of_given_string/README.md)
 - [2348. Number of Zero-Filled Subarrays](2348_number_of_zero_filled_subarrays/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
 - [2657. Find the Prefix Common Array of Two Arrays](2657_find_prefix_common_array_of_two_arrays/README.md)
