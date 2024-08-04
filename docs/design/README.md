@@ -9,3 +9,4 @@
 - [707. Design Linked List](707_design_linked_list/README.md)
 - [933. Number of Recent Calls](933_number_of_recent_calls/README.md)
 - [2241. Design an ATM Machine](2241_design_atm_machine/README.md)
+- [2349. Design a Number Container System](2349_design_number_container_system/README.md)
