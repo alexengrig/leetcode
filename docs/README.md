@@ -120,6 +120,7 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [849. Maximize Distance to Closest Person](849_maximize_distance_to_closest_person/README.md)
 - [852. Peak Index in a Mountain Array](852_peak_index_in_mountain_array/README.md)
 - [896. Monotonic Array](896_monotonic_array/README.md)
+- [941. Valid Mountain Array](941_valid_mountain_array/README.md)
 - [977. Squares of a Sorted Array](977_squares_of_sorted_array/README.md)
 - [986. Interval List Intersections](986_interval_list_intersections/README.md)
 - [1004. Max Consecutive Ones III](1004_max_consecutive_ones3/README.md)
