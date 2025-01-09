@@ -140,5 +140,6 @@ _[Link to repository](https://github.com/alexengrig/leetcode)_
 - [2348. Number of Zero-Filled Subarrays](2348_number_of_zero_filled_subarrays/README.md)
 - [2511. Maximum Enemy Forts That Can Be Captured](2511_maximum_enemy_forts_that_can_be_captured/README.md)
 - [2657. Find the Prefix Common Array of Two Arrays](2657_find_prefix_common_array_of_two_arrays/README.md)
+- [2760. Longest Even Odd Subarray With Threshold](2760_longest_even_odd_subarray_with_threshold/README.md)
 - [2906. Construct Product Matrix](2906_construct_product_matrix/README.md)
 - [2951. Find the Peaks](2951_find_peaks/README.md)
