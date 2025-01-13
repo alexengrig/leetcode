@@ -12,7 +12,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 class TaskTest {
     static Stream<Arguments> provideSolutions() {
         return Stream.of(
-                Arguments.of(new Solution())
+                Arguments.of(new SetSolution()),
+                Arguments.of(new SortSolution())
         );
     }
 

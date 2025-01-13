@@ -1,12 +1,13 @@
 # [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-## [Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_11_container_with_most_water/Solution.java)
+## [Set Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_217_contains_duplicate/SetSolution.java)
 
 **Time complexity: O(n)**
 
-**Space complexity: O(1)**
+**Space complexity: O(n)**
 
-```
-Runtime: 10 ms, faster than 88.35% of Java online submissions for Contains Duplicate.
-Memory Usage: 59.2 MB, less than 37.67% of Java online submissions for Contains Duplicate.
-```
+## [Sort Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_217_contains_duplicate/SortSolution.java)
+
+**Time complexity: O(n log(n))**
+
+**Space complexity: O(1)**
