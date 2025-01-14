@@ -7,12 +7,15 @@ import org.junit.jupiter.params.provider.MethodSource;
 import java.util.List;
 import java.util.stream.Stream;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class TaskTest {
     static Stream<Arguments> provideSolutions() {
         return Stream.of(
-                Arguments.of(new Solution())
+                Arguments.of(new ArraySolution()),
+                Arguments.of(new MapSolution()),
+                Arguments.of(new SortSolution())
         );
     }
 
@@ -20,9 +23,9 @@ class TaskTest {
     @MethodSource("provideSolutions")
     void test0(Task solution) {
         String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
-        assertEquals(List.of(
+        assertThat(solution.groupAnagrams(strs)).containsExactlyInAnyOrderElementsOf(List.of(
                 List.of("eat", "tea", "ate"), List.of("bat"), List.of("tan", "nat")
-        ), solution.groupAnagrams(strs));
+        ));
     }
 
     @ParameterizedTest

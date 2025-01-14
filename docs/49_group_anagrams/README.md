@@ -1,17 +1,25 @@
 # [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
-## [Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_49_group_anagrams/Solution.java)
+## [Array Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_49_group_anagrams/ArraySolution.java)
 
-_n = |strs| and k = |strs[i]|_
+_n = |strs| and m = |strs[i]| and k = |alphabet| = 26_
 
-**Time complexity: O(n k log(k))**
+**Time complexity: O(n m)**
 
-**Space complexity: O(n k)**
+**Space complexity: O(n k) ~ O(n)**
 
-```
-Runtime 0 ms
-Beats 100.00%
+## [Map Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_49_group_anagrams/MapSolution.java)
 
-Memory 42.56 MB
-Beats 26.55%
-```
+_n = |strs| and m = |strs[i]|_
+
+**Time complexity: O(n m)**
+
+**Space complexity: O(n m)**
+
+## [Sort Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_49_group_anagrams/SortSolution.java)
+
+_n = |strs| and m = |strs[i]|_
+
+**Time complexity: O(n m log(m))**
+
+**Space complexity: O(n m)**
