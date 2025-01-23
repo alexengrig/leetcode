@@ -6,12 +6,13 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 class TaskTest {
     static Stream<Arguments> provideSolutions() {
         return Stream.of(
-                Arguments.of(new Solution())
+                Arguments.of(new HeapSolution())
         );
     }
 
@@ -20,7 +21,7 @@ class TaskTest {
     void test0(Task solution) {
         int[] nums = {1, 1, 1, 2, 2, 3};
         int k = 2;
-        assertArrayEquals(new int[]{1, 2}, solution.topKFrequent(nums, k));
+        assertThat(solution.topKFrequent(nums, k)).containsExactlyInAnyOrder(1, 2);
     }
 
     @ParameterizedTest
