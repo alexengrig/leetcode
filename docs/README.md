@@ -4,7 +4,9 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 
 ## Lists
 
-- [neetcode.io | Arrays & Hashing](list/neetcode.io-arrays-n-hashing.md)
+### neetcode.io
+
+- [Arrays & Hashing](list/neetcode.io-arrays-n-hashing.md)
 
 ## Problems
 
