@@ -1,6 +1,12 @@
-# [My solutions](https://leetcode.com/u/alexengrig) of tasks from [LeetCode](https://leetcode.com)
+# [My solutions](https://leetcode.com/u/alexengrig) of problems from [LeetCode](https://leetcode.com)
 
-_[Link to repository](https://github.com/alexengrig/leetcode)_
+_[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
+
+## Lists
+
+- [neetcode.io | Arrays & Hashing](list/neetcode.io-arrays-n-hashing.md)
+
+## Problems
 
 - [Concurrency](concurrency/README.md)
 - [Design](design/README.md)
