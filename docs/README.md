@@ -67,6 +67,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 - [121. Best Time to Buy and Sell Stock](121_best_time_to_buy_and_sell_stock/README.md)
 - [122. Best Time to Buy and Sell Stock II](122_best_time_to_buy_and_sell_stock2/README.md)
 - [125. Valid Palindrome](125_valid_palindrome/README.md)
+- [128. Longest Consecutive Sequence](128_longest_consecutive_sequence/README.md)
 - [136. Single Number](136_single_number/README.md)
 - [141. Linked List Cycle](141_linked_list_cycle/README.md)
 - [150. Evaluate Reverse Polish Notation](150_evaluate_reverse_polish_notation/README.md)
