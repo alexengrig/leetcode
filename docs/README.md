@@ -42,6 +42,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 - [33. Search in Rotated Sorted Array](33_search_in_rotated_sorted_array/README.md)
 - [34. Find First and Last Position of Element in Sorted Array](34_find_first_and_last_position_in_sorted_array/README.md)
 - [35. Search Insert Position](35_search_insert_position/README.md)
+- [36. Valid Sudoku](36_valid_sudoku/README.md)
 - [48. Rotate Image](48_rotate_image/README.md)
 - [49. Group Anagrams](49_group_anagrams/README.md)
 - [53. Maximum Subarray](53_maximum_subarray/README.md)
