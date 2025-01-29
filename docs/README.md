@@ -7,6 +7,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 ### neetcode.io
 
 - [Arrays & Hashing](list/neetcode.io-arrays-n-hashing.md)
+- [Two Pointers](list/neetcode.io-two-pointers.md)
 
 ## Problems
 
