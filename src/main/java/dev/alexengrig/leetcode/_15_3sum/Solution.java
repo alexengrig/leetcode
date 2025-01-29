@@ -8,31 +8,34 @@ class Solution implements Task {
     @Override
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> results = new ArrayList<>();
-        for (int left = 0, mid, right, sum; left < nums.length - 2; left++) {
-            if (left > 0 && nums[left - 1] == nums[left]) continue;
-            mid = left + 1;
-            right = nums.length - 1;
-            while (mid < right) {
-                if ((sum = nums[left] + nums[mid] + nums[right]) == 0) {
-                    results.add(List.of(nums[left], nums[mid], nums[right]));
+        int n = nums.length;
+        List<List<Integer>> res = new ArrayList<>();
+        for (int i = 0; i < n - 2; i++) {
+            if (i > 0 && nums[i - 1] == nums[i]) {
+                continue;
+            }
+            int l = i + 1, r = n - 1, sum;
+            while (l < r) {
+                sum = nums[i] + nums[l] + nums[r];
+                if (sum == 0) {
+                    res.add(List.of(nums[i], nums[l], nums[r]));
                     do {
-                        mid++;
-                    } while (mid < nums.length - 1 && nums[mid - 1] == nums[mid]);
+                        l++;
+                    } while (l < r - 1 && nums[l - 1] == nums[l]);
                     do {
-                        right--;
-                    } while (right > mid && nums[right] == nums[right + 1]);
+                        r--;
+                    } while (l < r && nums[r] == nums[r + 1]);
                 } else if (sum < 0) {
                     do {
-                        mid++;
-                    } while (mid < nums.length - 1 && nums[mid - 1] == nums[mid]);
+                        l++;
+                    } while (l < r - 1 && nums[l - 1] == nums[l]);
                 } else {
                     do {
-                        right--;
-                    } while (right > mid && nums[right] == nums[right + 1]);
+                        r--;
+                    } while (l < r && nums[r] == nums[r + 1]);
                 }
             }
         }
-        return results;
+        return res;
     }
 }

@@ -5,8 +5,3 @@
 **Time complexity: O(n^2)**
 
 **Space complexity: O(1)**
-
-```
-Runtime: 42 ms, faster than 40.60% of Java online submissions for 3Sum.
-Memory Usage: 51.1 MB, less than 90.69% of Java online submissions for 3Sum.
-```
