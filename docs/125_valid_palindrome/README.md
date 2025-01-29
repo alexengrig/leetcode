@@ -5,11 +5,3 @@
 **Time complexity: O(n)**
 
 **Space complexity: O(1)**
-
-```
-Runtime 2 ms
-Beats 99.06%
-
-Memory 43.03 MB
-Beats 59.57%
-```
