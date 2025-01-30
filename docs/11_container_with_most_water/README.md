@@ -5,8 +5,3 @@
 **Time complexity: O(n)**
 
 **Space complexity: O(1)**
-
-```
-Runtime: 5 ms, faster than 69.29% of Java online submissions for Container With Most Water.
-Memory Usage: 58 MB, less than 34.74% of Java online submissions for Container With Most Water.
-```

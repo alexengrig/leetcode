@@ -7,10 +7,10 @@ class Solution implements Task {
         while (l < r) {
             s = (r - l) * Math.min(height[l], height[r]);
             max = Math.max(max, s);
-            if (height[l] > height[r]) {
-                r--;
-            } else {
+            if (height[l] <= height[r]) {
                 l++;
+            } else {
+                r--;
             }
         }
         return max;
