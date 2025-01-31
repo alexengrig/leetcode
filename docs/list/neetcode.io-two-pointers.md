@@ -9,3 +9,4 @@
 - [167. Two Sum II - Input Array Is Sorted](../167_two_sum2_input_array_is_sorted/README.md)
 - [15. 3Sum](../15_3sum/README.md)
 - [11. Container With Most Water](../11_container_with_most_water/README.md)
+- [42. Trapping Rain Water](../42_trapping_rain_water/README.md)
