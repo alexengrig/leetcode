@@ -6,3 +6,4 @@
 ## Problems
 
 - [20. Valid Parentheses](../20_valid_parentheses/README.md)
+- [155. Min Stack](../design/155_min_stack/README.md)
