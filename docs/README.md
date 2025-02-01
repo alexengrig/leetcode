@@ -4,10 +4,11 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 
 ## Lists
 
-### neetcode.io
+### [neetcode.io](https://neetcode.io/roadmap)
 
 - [Arrays & Hashing](list/neetcode.io-arrays-n-hashing.md)
 - [Two Pointers](list/neetcode.io-two-pointers.md)
+- [Stack](list/neetcode.io-stack.md)
 
 ## Problems
 

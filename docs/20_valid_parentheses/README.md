@@ -5,11 +5,3 @@
 **Time complexity: O(n)**
 
 **Space complexity: O(n)**
-
-```
-Runtime 1 ms
-Beats 98.84% of users with Java
-
-Memory 41.68 MB
-Beats 18.68% of users with Java
-```

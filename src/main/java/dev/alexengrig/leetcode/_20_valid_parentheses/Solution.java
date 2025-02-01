@@ -7,21 +7,16 @@ class Solution implements Task {
     @Override
     public boolean isValid(String s) {
         Deque<Character> stack = new ArrayDeque<>(s.length());
-        char prev;
-        for (char curr : s.toCharArray()) {
+        for (int i = 0, n = s.length(); i < n; i++) {
+            char curr = s.charAt(i);
             if (curr == '(' || curr == '[' || curr == '{') {
-                stack.addFirst(curr);
-            } else if (stack.isEmpty()) {
-                return false;
+                stack.push(curr);
             } else {
-                prev = stack.removeFirst();
-                if (curr == ')' && prev != '(') {
-                    return false;
-                } else if (curr == ']' && prev != '[') {
-                    return false;
-                } else if (curr == '}' && prev != '{') {
-                    return false;
-                }
+                if (stack.isEmpty()) return false;
+                char prev = stack.pop();
+                if (prev == '(' && curr != ')') return false;
+                if (prev == '[' && curr != ']') return false;
+                if (prev == '{' && curr != '}') return false;
             }
         }
         return stack.isEmpty();
