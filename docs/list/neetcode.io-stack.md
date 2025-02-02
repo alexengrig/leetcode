@@ -8,3 +8,4 @@
 - [20. Valid Parentheses](../20_valid_parentheses/README.md)
 - [155. Min Stack](../design/155_min_stack/README.md)
 - [150. Evaluate Reverse Polish Notation](../150_evaluate_reverse_polish_notation/README.md)
+- [739. Daily Temperatures](../739_daily_temperatures/README.md)
