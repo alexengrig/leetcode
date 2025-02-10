@@ -133,6 +133,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 - [844. Backspace String Compare](844_backspace_string_compare/README.md)
 - [849. Maximize Distance to Closest Person](849_maximize_distance_to_closest_person/README.md)
 - [852. Peak Index in a Mountain Array](852_peak_index_in_mountain_array/README.md)
+- [853. Car Fleet](853_car_fleet/README.md)
 - [896. Monotonic Array](896_monotonic_array/README.md)
 - [941. Valid Mountain Array](941_valid_mountain_array/README.md)
 - [977. Squares of a Sorted Array](977_squares_of_sorted_array/README.md)
