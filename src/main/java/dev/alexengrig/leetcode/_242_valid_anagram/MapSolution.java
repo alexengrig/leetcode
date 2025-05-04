@@ -14,12 +14,8 @@ class MapSolution implements Task {
             map.compute(s.charAt(i), (key, count) -> count == null ? 1 : count + 1);
         }
         for (int i = 0; i < t.length(); i++) {
-            Integer res = map.compute(t.charAt(i), (key, count) -> count == null
-                    ? Integer.valueOf(-1)
-                    : count == 1 ? null : count - 1);
-            if (res != null && res == -1) {
-                return false;
-            }
+            if (!map.containsKey(t.charAt(i))) return false;
+            map.compute(t.charAt(i), (key, count) -> count == 1 ? null : count - 1);
         }
         return map.isEmpty();
     }
