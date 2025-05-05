@@ -3,10 +3,9 @@ package dev.alexengrig.leetcode._11_container_with_most_water;
 class Solution implements Task {
     @Override
     public int maxArea(int[] height) {
-        int l = 0, r = height.length - 1, max = 0, s;
+        int max = 0, l = 0, r = height.length - 1;
         while (l < r) {
-            s = (r - l) * Math.min(height[l], height[r]);
-            max = Math.max(max, s);
+            max = Math.max(max, (r - l) * Math.min(height[l], height[r]));
             if (height[l] <= height[r]) {
                 l++;
             } else {
