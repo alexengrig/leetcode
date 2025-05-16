@@ -11,3 +11,4 @@
 - [22. Generate Parentheses](../22_generate_parentheses/README.md)
 - [739. Daily Temperatures](../739_daily_temperatures/README.md)
 - [853. Car Fleet](../853_car_fleet/README.md)
+- [84. Largest Rectangle in Histogram](../84_largest_rectangle_in_istogram/README.md)

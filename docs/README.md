@@ -58,6 +58,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 - [74. Search a 2D Matrix](74_search_2d_matrix/README.md)
 - [75. Sort Colors](75_sort_colors/README.md)
 - [76. Minimum Window Substring](76_minimum_window_substring/README.md)
+- [84. Largest Rectangle in Histogram](84_largest_rectangle_in_istogram/README.md)
 - [88. Merge Sorted Array](88_merge_sorted_array/README.md)
 - [98. Validate Binary Search Tree](98_validate_binary_search_tree/README.md)
 - [100. Same Tree](100_same_tree/README.md)
