@@ -13,18 +13,18 @@ def provide_solutions() -> list[Task]:
 
 
 @pytest.mark.parametrize("solution", provide_solutions())
-def test_contains_duplicate_true(solution: Task):
+def test_0(solution: Task):
     nums = [1, 2, 3, 1]
     assert solution.containsDuplicate(nums) is True
 
 
 @pytest.mark.parametrize("solution", provide_solutions())
-def test_contains_duplicate_false(solution: Task):
+def test_1(solution: Task):
     nums = [1, 2, 3, 4]
     assert solution.containsDuplicate(nums) is False
 
 
 @pytest.mark.parametrize("solution", provide_solutions())
-def test_contains_duplicate_empty(solution: Task):
+def test_2(solution: Task):
     nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]
     assert solution.containsDuplicate(nums) is True

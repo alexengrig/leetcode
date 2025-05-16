@@ -18,7 +18,10 @@ Memory 43.18 MB
 Beats 68.41%
 ```
 
-## [Map solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_242_valid_anagram/MapSolution.java)
+## Map solution
+
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_242_valid_anagram/MapSolution.java)
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/242_valid_anagram/map_solution.py)
 
 _n = |s, t|_
 
