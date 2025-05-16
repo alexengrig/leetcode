@@ -16,7 +16,10 @@ _n = |strs| and m = |strs[i]|_
 
 **Space complexity: O(n m)**
 
-## [Sort Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_49_group_anagrams/SortSolution.java)
+## Sort Solution
+
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_49_group_anagrams/SortSolution.java)
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/49_group_anagrams/sort_solution.py)
 
 _n = |strs| and m = |strs[i]|_
 
