@@ -2,7 +2,10 @@
 
 **[Solution description](https://algo.monster/liteproblems/271)**
 
-## [Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/premium/_271_encode_and_decode_strings/Solution.java)
+## Solution
+
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/premium/_271_encode_and_decode_strings/Solution.java)
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/premium/271_encode_and_decode_strings/solution.py)
 
 ### encode
 
