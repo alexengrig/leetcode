@@ -1,10 +1,11 @@
 import heapq
+from typing import List
 
 from task import Task
 
 
 class HeapSolution(Task):
-    def topKFrequent(self, nums, k):
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         counts = {}
         for num in nums:
             counts[num] = counts.get(num, 0) + 1

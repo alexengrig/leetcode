@@ -1,8 +1,10 @@
+from typing import List
+
 from task import Task
 
 
 class Solution(Task):
-    def productExceptSelf(self, nums):
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
         res = [0] * n
 
