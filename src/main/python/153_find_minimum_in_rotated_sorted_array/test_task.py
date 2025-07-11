@@ -23,6 +23,6 @@ def test_1(solution: Task):
 
 
 @pytest.mark.parametrize("solution", provide_solutions())
-def test_1(solution: Task):
+def test_2(solution: Task):
     nums = [11, 13, 15, 17]
     assert solution.findMin(nums) == 11
