@@ -10,5 +10,5 @@
 - [875. Koko Eating Bananas](../875_koko_eating_bananas/README.md)
 - [153. Find Minimum in Rotated Sorted Array](../153_find_minimum_in_rotated_sorted_array/README.md)
 - [33. Search in Rotated Sorted Array](../33_search_in_rotated_sorted_array/README.md)
-- [981. Time Based Key-Value Store](../981_time_based_key_value_store/README.md)
+- [981. Time Based Key-Value Store](../design/981_time_based_key_value_store/README.md)
 - [4. Median of Two Sorted Arrays](../4_median_of_two_sorted_arrays/README.md)
