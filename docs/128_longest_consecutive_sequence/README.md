@@ -9,9 +9,9 @@
 
 **Space complexity: O(n)**
 
-## [Map Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_128_longest_consecutive_sequence/MapSolution.java)
+## Map Solution
 
-- [Java code]
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_128_longest_consecutive_sequence/MapSolution.java)
 
 **Time complexity: O(n)**
 
