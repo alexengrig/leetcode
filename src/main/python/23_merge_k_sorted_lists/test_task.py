@@ -3,12 +3,16 @@ from typing import Optional
 import pytest
 
 from heap_solution import HeapSolution
+from div_and_con_solution import DivideAndConquerSolution
+from rec_div_and_con_solution import RecursiveDivideAndConquerSolution
 from task import Task, ListNode
 
 
 def provide_solutions() -> list[Task]:
     return [
         HeapSolution(),
+        DivideAndConquerSolution(),
+        RecursiveDivideAndConquerSolution(),
     ]
 
 
