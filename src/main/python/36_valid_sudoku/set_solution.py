@@ -13,20 +13,18 @@ class SetSolution(Task):
             seen_row = set()
             seen_box = set()
             for j in range(n):
-                if board[i][j] != '.':
-                    if board[i][j] in seen_col:
-                        return False
+                if board[i][j] in seen_col:
+                    return False
+                elif board[i][j] != '.':
                     seen_col.add(board[i][j])
-
-                if board[j][i] != '.':
-                    if board[j][i] in seen_row:
-                        return False
+                if board[j][i] in seen_row:
+                    return False
+                elif board[j][i] != '.':
                     seen_row.add(board[j][i])
-
                 row = size * (i // size) + j // size
                 col = size * (i % size) + j % size
-                if board[row][col] != '.':
-                    if board[row][col] in seen_box:
-                        return False
+                if board[row][col] in seen_box:
+                    return False
+                elif board[row][col] != '.':
                     seen_box.add(board[row][col])
         return True
