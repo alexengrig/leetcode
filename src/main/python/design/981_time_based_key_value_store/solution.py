@@ -1,14 +1,14 @@
+from collections import defaultdict
+
 from task import TimeMap
 
 
 class MyTimeMap(TimeMap):
     def __init__(self):
         super().__init__()
-        self.data = {}
+        self.data = defaultdict(list)
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        if key not in self.data:
-            self.data[key] = []
         self.data[key].append((timestamp, value))
 
     def get(self, key: str, timestamp: int) -> str:
