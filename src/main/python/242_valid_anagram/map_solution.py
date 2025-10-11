@@ -14,4 +14,6 @@ class MapSolution(Task):
                     counts.pop(ch)
                 else:
                     counts[ch] -= 1
+            else:
+                return False
         return len(counts) == 0
