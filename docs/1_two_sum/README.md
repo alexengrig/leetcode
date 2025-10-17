@@ -11,6 +11,8 @@
 
 ![solution](map.png)
 
-## [Brute-force code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_1_two_sum/BruteForceSolution.java)
+## Brute-force Solution
+
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_1_two_sum/BruteForceSolution.java)
 
 ![solution](brute-force.png)

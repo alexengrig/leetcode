@@ -9,6 +9,14 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 - [Arrays & Hashing](list/neetcode.io-arrays-n-hashing.md)
 - [Two Pointers](list/neetcode.io-two-pointers.md)
 - [Stack](list/neetcode.io-stack.md)
+- [Binary Search](list/neetcode.io-binary-search.md)
+- [Sliding Window](list/neetcode.io-sliding-window.md)
+- [Linked List](list/neetcode.io-linked-list.md)
+
+### [neetcode.io](https://neetcode.io/roadmap)
+
+- [Two Pointers](list/bytebytego.com-two-pointers.md)
+- [Hash Maps And Sets](list/bytebytego.com-hash-maps-and-sets.md)
 
 ## Problems
 
