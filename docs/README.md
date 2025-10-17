@@ -13,7 +13,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 - [Sliding Window](list/neetcode.io-sliding-window.md)
 - [Linked List](list/neetcode.io-linked-list.md)
 
-### [neetcode.io](https://neetcode.io/roadmap)
+### [bytebytego.com](https://bytebytego.com/exercises/coding-patterns)
 
 - [Two Pointers](list/bytebytego.com-two-pointers.md)
 - [Hash Maps And Sets](list/bytebytego.com-hash-maps-and-sets.md)
