@@ -2,13 +2,13 @@ from typing import Optional
 
 import pytest
 
-from brute_force_solution import BruteForceSolution
+from solution import Solution
 from task import Task, ListNode
 
 
 def provide_solutions() -> list[Task]:
     return [
-        BruteForceSolution(),
+        Solution(),
     ]
 
 
