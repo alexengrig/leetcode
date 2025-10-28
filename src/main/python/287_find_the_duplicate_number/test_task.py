@@ -1,12 +1,12 @@
 import pytest
 
-from solution import Solution
+from floyd_solution import FloydSolution
 from task import Task
 
 
 def provide_solutions() -> list[Task]:
     return [
-        Solution(),
+        FloydSolution(),
     ]
 
 
