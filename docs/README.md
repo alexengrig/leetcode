@@ -17,6 +17,7 @@ _[Link to GitHub repository](https://github.com/alexengrig/leetcode)_
 
 - [Two Pointers](list/bytebytego.com-two-pointers.md)
 - [Hash Maps And Sets](list/bytebytego.com-hash-maps-and-sets.md)
+- [Linked Lists](list/bytebytego.com-linked-lists.md)
 
 ## Problems
 
