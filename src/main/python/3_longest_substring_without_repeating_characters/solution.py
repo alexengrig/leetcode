@@ -3,12 +3,12 @@ from task import Task
 
 class Solution(Task):
     def lengthOfLongestSubstring(self, s: str) -> int:
-        m = {}
         res = 0
+        count = {}
         l = 0
-        for r in range(0, len(s)):
-            if s[r] in m:
-                l = max(l, m[s[r]] + 1)
-            m[s[r]] = r
+        for r, c in enumerate(s):
+            if c in count:
+                l = max(l, count[c] + 1)
+            count[c] = r
             res = max(res, r - l + 1)
         return res

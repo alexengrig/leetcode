@@ -7,6 +7,6 @@
 
 **Time complexity: O(n)**
 
-_k = |alphabet| = 128_
+k = |alphabet| = 128
 
 **Space complexity: O(k)**
