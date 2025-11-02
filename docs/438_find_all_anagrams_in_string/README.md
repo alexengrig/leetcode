@@ -1,19 +1,14 @@
 # [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-## [Alphabet solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_438_find_all_anagrams_in_string/AlphabetSolution.java)
+## Solution
 
-_n = |s| and m = |p|_
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/438_find_all_anagrams_in_string/solution.py)
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_438_find_all_anagrams_in_string/AlphabetSolution.java)
 
-**Time complexity: O(n+m))**
+n = |s| and m = |p|
 
-_k = |alphabet| = 26_
+**Time complexity: O(n+m)**
+
+k = |alphabet| = 26
 
 **Space complexity: O(k)**
-
-```
-Runtime 10 ms
-Beats 79.78%
-
-Memory 44.52 MB
-Beats 77.96%
-```
