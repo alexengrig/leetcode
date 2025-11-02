@@ -5,10 +5,10 @@
 - [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_424_longest_repeating_character_replacement/Solution.java)
 - [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/424_longest_repeating_character_replacement/solution.py)
 
-_n = |s|_
+n = |s|
 
 **Time complexity: O(n)**
 
-_k = |alphabet| = 26_
+k = |alphabet| = 26
 
 **Space complexity: O(k)**
