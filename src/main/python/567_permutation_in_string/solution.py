@@ -8,15 +8,17 @@ class Solution(Task):
         len1, len2 = len(s1), len(s2)
         if len1 > len2:
             return False
-        expected, counts = Counter(s1), Counter(s2[:len1 - 1])
-        l = 0
-        for r in range(len1 - 1, len2):
-            counts[s2[r]] += 1
-            if expected == counts:
-                return True
-            lc = s2[l]
-            counts[lc] -= 1
-            if counts[lc] == 0:
-                counts.pop(lc)
-            l += 1
+        counts = Counter(s1)
+        l, size = 0, len1
+        for r, c in enumerate(s2):
+            counts[c] -= 1
+            if counts[c] >= 0:
+                size -= 1
+            while size == 0:
+                if r - l + 1 == len1:
+                    return True
+                lc = s2[l]
+                counts[lc] += 1
+                if counts[lc] > 0:
+                    size += 1
         return False
