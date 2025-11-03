@@ -1,15 +1,12 @@
 # [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
-## [Map solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_567_permutation_in_string/MapSolution.java)
+## Solution
+
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/567_permutation_in_string/solution.py)
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_567_permutation_in_string/MapSolution.java)
 
 **Time complexity: O(|substring| + |string|)**
 
-**Space complexity: O(|substring|)**
+`k = |alphabet| = 26`
 
-```
-Runtime 23 ms
-Beats 39.30%
-
-Memory 44.46 MB
-Beats 28.84%
-```
+**Space complexity: O(k)**
