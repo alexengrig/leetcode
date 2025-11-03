@@ -10,4 +10,4 @@
 - [424. Longest Repeating Character Replacement](../424_longest_repeating_character_replacement/README.md)
 - [567. Permutation in String](../567_permutation_in_string/README.md)
 - [76. Minimum Window Substring](../76_minimum_window_substring/README.md)
-- [239. Sliding Window Maximum](../239)
+- [239. Sliding Window Maximum](../239_sliding_window_maximum/README.md)
