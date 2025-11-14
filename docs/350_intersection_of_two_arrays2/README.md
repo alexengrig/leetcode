@@ -1,30 +1,24 @@
 # [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-## [Map solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_350_intersection_of_two_arrays2/MapSolution.java)
+## Map solution
 
-_n = min(|nums1|, |nums2|)_
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/350_intersection_of_two_arrays2/map_solution.py)
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_350_intersection_of_two_arrays2/MapSolution.java)
 
-_m = max(|nums1|, |nums2|)_
+**Time complexity: O(m + n)**
 
-**Time complexity: O(n + m)**
+**Space complexity: O(min(m, n))**
 
-**Space complexity: O(n)**
+## Two Pointers Solution
 
-## [Two pointers solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_350_intersection_of_two_arrays2/TwoPointersSolution.java)
-
-_n = |nums1|_
-
-_m = |nums2|_
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/350_intersection_of_two_arrays2/twop_solution.py)
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_350_intersection_of_two_arrays2/TwoPointersSolution.java)
 
 **Time complexity: O(n log(n) + m log(m))**
 
 **Space complexity: O(1)**
 
 ## [Binary search solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_350_intersection_of_two_arrays2/BinarySearchSolution.java)
-
-_n = min(|nums1|, |nums2|)_
-
-_m = max(|nums1|, |nums2|)_
 
 **Time complexity: O(n log(n) + m log(m) + n log(m))**
 
