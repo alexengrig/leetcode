@@ -1,6 +1,9 @@
 # [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
-## [Solution code: Heap](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_215_kth_largest_element_in_array/HeapSolution.java)
+## Heap Solution
+
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/215_kth_largest_element_in_array/heap_solution.py)
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_215_kth_largest_element_in_array/HeapSolution.java)
 
 **Time complexity: O(n log(k))**
 
