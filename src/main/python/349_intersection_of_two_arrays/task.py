@@ -1,0 +1,6 @@
+from typing import List
+
+
+class Task:
+    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        pass
