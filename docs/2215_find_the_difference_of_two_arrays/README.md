@@ -1,11 +1,10 @@
 # [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 
-## [Solution code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2215_find_the_difference_of_two_arrays/Solution.java)
+## Solution
 
-_n = |nums1|_
+- [Python code](https://github.com/alexengrig/leetcode/blob/main/src/main/python/2215_find_the_difference_of_two_arrays/solution.py)
+- [Java code](https://github.com/alexengrig/leetcode/blob/main/src/main/java/dev/alexengrig/leetcode/_2215_find_the_difference_of_two_arrays/Solution.java)
 
-_m = |nums2|_
+**Time complexity: O(m + n)**
 
-**Time complexity: O(n + m)**
-
-**Space complexity: O(n + m)**
+**Space complexity: O(max(m, n))**
