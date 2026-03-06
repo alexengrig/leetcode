@@ -14,7 +14,7 @@ def provide_solutions() -> list[Task]:
 def test_0(solution: Task):
     strs = ["neet", "code", "love", "you"]
     encoded = solution.encode(strs)
-    assert encoded == "4{neet4{code4{love3{you"
+    assert encoded == "4}neet4}code4}love3}you"
     decoded = solution.decode(encoded)
     assert decoded == strs
 
@@ -23,6 +23,6 @@ def test_0(solution: Task):
 def test_1(solution: Task):
     strs = ["we", "say", ":", "yes"]
     encoded = solution.encode(strs)
-    assert encoded == "2{we3{say1{:3{yes"
+    assert encoded == "2}we3}say1}:3}yes"
     decoded = solution.decode(encoded)
     assert decoded == strs
