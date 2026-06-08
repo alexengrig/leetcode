@@ -4,6 +4,6 @@ title: Contains Duplicate
 difficulty: easy
 leetcode_url: https://leetcode.com/problems/contains-duplicate/
 topics:
-  - array
-  - hash-table
-  - sorting
+  - Array
+  - Hash Table
+  - Sorting
