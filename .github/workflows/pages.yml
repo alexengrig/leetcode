@@ -33,7 +33,7 @@ jobs:
         run: uv python install
 
       - name: Install dependencies
-        run: uv sync --locked --group docs
+        run: uv sync --locked --group doc
 
       - name: Generate MkDocs sources
         run: uv run python tools/sitegen/generate.py
