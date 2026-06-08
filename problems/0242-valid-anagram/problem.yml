@@ -1,0 +1,9 @@
+id: 242
+slug: valid-anagram
+title: Valid Anagram
+difficulty: easy
+leetcode_url: https://leetcode.com/problems/valid-anagram/
+topics:
+  - Hash Table
+  - String
+  - Sorting
