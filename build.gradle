@@ -1,5 +1,5 @@
-group 'dev.alexengrig'
-version 'latest'
+group 'alexengrig'
+version '0'
 
 subprojects { subproject ->
     if (file('java').isDirectory()) {
