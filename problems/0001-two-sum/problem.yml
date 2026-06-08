@@ -1,0 +1,8 @@
+id: 1
+slug: two-sum
+title: Two Sum
+difficulty: easy
+leetcode_url: https://leetcode.com/problems/two-sum/
+topics:
+  - Array
+  - Hash Table
