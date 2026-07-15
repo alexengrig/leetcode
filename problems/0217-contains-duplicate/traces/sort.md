@@ -8,7 +8,7 @@ val: 1 2 3 2
    ^
 ```
 
-##### Step 2
+##### Step 2 - Sort
 
 ```text
 idx: 0 1 2 3
